@@ -6,17 +6,24 @@
  
   <!-- The Basics -->
   <!-- Test ligne en conflit -->
+conflict par abuisine qui code
   <groupId>...</groupId>
   <artifactId>...</artifactId>
   <version>...</version>
   <packaging>...</packaging>
   <dependencies>...</dependencies>
+  qsdqsd
   <parent>...</parent>
   <dependencyManagement>...</dependencyManagement>
   <modules>...</modules>
   <properties>...</properties>
  
   <!-- Build Settings -->
+une autre ligne sans conflit
+function(
+  qsdqsd
+  qsdqsd
+  qsd)
   <build>...</build>
   <reporting>...</reporting>
  
