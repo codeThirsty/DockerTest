@@ -5,6 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <!-- The Basics -->
+  <!-- Test ligne en conflit -->
   <groupId>...</groupId>
   <artifactId>...</artifactId>
   <version>...</version>
